@@ -1,7 +1,7 @@
 <header>
 
 <!--
-  <<< https://www.transfernow.net/dl/202505263J7lanpc/kYJBRLdl Модуль 1
+  <<< https://www.transfernow.net/dl/20250526xtHawM6c/NPIkx8xh Модуль 1
 Таблица 1. Итоговая таблица адресации (Модуль 1)
 Устройство	IP-адрес	Маска	Шлюз
 ISP	DHCP	DHCP	DHCP
